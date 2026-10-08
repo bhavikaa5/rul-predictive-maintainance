@@ -1,0 +1,5 @@
+strategy,total_cost
+Run-to-failure,2000.0
+Fixed schedule (S=155),578.6
+"Fixed schedule, oracle S=134",478.0
+Model-driven (T=20),273.6
